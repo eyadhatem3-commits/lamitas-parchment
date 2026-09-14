@@ -68,7 +68,7 @@ function Index() {
       >
         <div aria-hidden="true" className="opening-glow pointer-events-none absolute h-[34rem] w-[34rem] max-w-[95vw]" />
         <div className="relative z-10 flex w-full flex-col items-center">
-          <p className="font-display text-5xl leading-none sm:text-7xl">for lamlam ♡</p>
+          <h1 className="font-display text-5xl font-normal leading-none sm:text-7xl">for lamlam ♡</h1>
           <div className="letter-rule my-8 h-px w-28 opacity-60" />
           <Button variant="letter" onClick={openLetter} aria-label="Open Eyad's letter for Lamita">
             A little thing i wanna tell you, a fraction of the love i have for you. I love you so much
